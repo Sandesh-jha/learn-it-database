@@ -4,5 +4,10 @@
     "countryId": "1779267500939",
     "courseId": "1779267520037",
     "name": "English"
+  },
+  {
+    "id": "1779674126883",
+    "courseId": "1779267520037",
+    "name": "Nepali"
   }
 ]
