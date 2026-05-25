@@ -6,5 +6,25 @@
     "subjectId": "1779267550042",
     "partId": "1779282606956",
     "name": "Unit 1"
+  },
+  {
+    "id": "1779687124748",
+    "partId": "1779686955364",
+    "name": "Syllabus"
+  },
+  {
+    "id": "1779687174358",
+    "partId": "1779686971406",
+    "name": "Seen Text Passage"
+  },
+  {
+    "id": "1779687193399",
+    "partId": "1779686971406",
+    "name": "Unseen Text Passage"
+  },
+  {
+    "id": "1779687217593",
+    "partId": "1779686971406",
+    "name": "Literature Text"
   }
 ]
